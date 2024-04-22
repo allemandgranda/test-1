@@ -41,4 +41,4 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 
-![우주](./images/cat.jpg)
+![houseplant](./images/houseplant1.jpg)
